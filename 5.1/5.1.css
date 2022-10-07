@@ -1,0 +1,91 @@
+html {
+    font-size: 62.5%;
+  }
+  body {
+    font-family: "Goldman", cursive;
+  }
+  
+  nav {
+    display: flex;
+    width: 100%;
+    padding: 2rem;
+    min-height: 10vh;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+    background: #00a8c7;
+    justify-content: space-between;
+  }
+  nav ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+  }
+  nav li {
+    font-size: 2.5rem;
+    padding: 0 4rem 0 4rem;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  nav img {
+    width: 5vw;
+  }
+  body{
+    background: url(img/hacker\ 5.2\ en\ 5.2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: 1210px;
+    background-position: 100px;
+    background-position-y: 100px;
+  }
+  h1{
+color: white;
+text-align: center;
+font-size: 50px;
+position: relative;
+top: 600px;
+  }
+  div img{
+    width: 400px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    margin-left: 00px;
+
+  }
+div h2{
+  color: white;
+  margin-top: 700px;
+  font-size: 100px;
+  margin-left: 300px;
+}
+footer {
+  width: 100%;
+  background-color:#00a8c7;
+  min-height: 100px;
+  }
+  p{
+  font-size: 20px;
+  }
+  footer p{
+  color: white;
+ margin-left: 400px;
+  }
+  div h3{
+    color: white;
+    margin-top: 700px;
+    font-size: 100px;
+    margin-left: 475px;
+  }
+  div p{
+  font-size: 25px;
+  color: white;
+  }
+#foto2{
+margin-left: 800px;
+}
+#foto4{
+margin-left: 800px;
+}
