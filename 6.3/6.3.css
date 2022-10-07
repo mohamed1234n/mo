@@ -1,0 +1,49 @@
+nav {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-around;
+    }
+    nav ul{
+        display: flex;
+    }
+    nav li{
+        display: flex;
+    }
+    nav p{
+        display: flex;
+        color: blue;
+    }
+    nav p1 {
+    color: blue;
+    margin-right: 60px;
+    margin-top: 16px;
+    }
+    nav p2 {
+     color: blue;
+    margin-left: 60px;
+    margin-top: 16px;
+    }
+    nav p3{
+        display: flex;
+        color: blue;
+        margin-top: 16px;
+        margin-left: 15px;
+    
+    }nav p4{
+        display: flex;
+        color: blue;
+        margin-top: 16px;
+        margin-left: 15px;
+    
+    }nav p5{
+        display: flex;
+        color: blue;
+        margin-top: 16px;
+        margin-left: 15px;
+    
+    }nav p6{
+        display: flex;
+        color: blue;
+        margin-top: 16px;
+        margin-left: 15px;
+    }
